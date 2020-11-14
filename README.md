@@ -2,7 +2,7 @@
 
 [The Fearless Engineer : `C++`](https://www.thefearlessengineer.com/cpp-kurs)
 
-<img src="img/angry_birds_terminal.jpg"/>
+![Angry Birds Terminal](https://github.com/andreashaja/CPP_AngryBirdsTerminal/blob/main/img/angry_birds_terminal.jpg)
 
 ##
 ## Worum geht es?
