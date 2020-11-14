@@ -59,9 +59,9 @@ int main(int argc, char* argv[])
     double g = 9.81; // m/s^2
     double dt = 0.01; // s
 
-    // Ausgabedatei für Flugbahndaten öffnen
-    ofstream myfile;
-    myfile.open("flugbahn.txt");
+    // Ausgabedatei für Flugbahndaten öffnen (Einkommentieren, wenn Ausgabe gewünscht)
+    //ofstream myfile;
+    //myfile.open("flugbahn.txt");
 
     double x = 0.0;
     double y = 0.0;
@@ -69,7 +69,7 @@ int main(int argc, char* argv[])
     {
         ///////// AUFGABE 2 START /////////
         /////////
-
+        break; // Entferne diese Zeile erst, sobald du alle Aufgaben gelöst hast. Sonst entsteht eine Endlosschleife
         // Aktualisiere die Geschwindigkeit in y, indem du vom aktuellen Wert das Produkt aus Schwerkraft
         // und Zeitschritt abziehst. Verwende dazu den Multiplikations- und den Subtraktionsoperator.
 
@@ -91,9 +91,9 @@ int main(int argc, char* argv[])
         ///////// AUFGABE 3 ENDE /////////
 
         // Schreibe die aktualisierte Position in eine Datei
-        myfile << x << "," << y << "\n";
+        //myfile << x << "," << y << "\n"; (Einkommentieren, wenn Ausgabe gewünscht)
     }
-    myfile.close();
+    //myfile.close(); (Einkommentieren, wenn Ausgabe gewünscht)
 
     ///////// AUFGABE 4 START /////////
     /////////
