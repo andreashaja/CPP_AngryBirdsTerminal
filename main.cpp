@@ -7,6 +7,11 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
+    int index = 5; 
+    int ascii = 72; 
+    int ascii_code = ascii + index % 2 + 3;
+    cout << "Codierter ASCII-Code = " << ascii_code << endl;
+
     // Parameter auf Plausibilität prüfen
     if(argc!=3)
     {
@@ -19,7 +24,7 @@ int main(int argc, char* argv[])
     double angle = atof(argv[1]);
     double speed = atof(argv[2]);
 
-    // Abschlussgeschwindigkeiten in x und y berechnen 
+    // Abschussgeschwindigkeiten in x und y berechnen 
     double vx = speed * cos(angle);
     double vy = speed * cos(angle);
 
