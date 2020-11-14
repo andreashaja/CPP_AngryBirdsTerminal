@@ -22,7 +22,7 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
-    cout << "******** ANGRY BIRDS TERMINAL v1.0 ********";
+    cout << "******** ANGRY BIRDS TERMINAL v1.0 ********\n";
     cout << "Willkommen zur terminalbasierten Version von Angry Birds!\n";
     cout << "In dieser ersten Version hast du einen (!) Vogel, um ein einzelnes Schwein zu treffen.\n";
     cout << "Ziele also gut!\n";
