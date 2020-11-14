@@ -2,7 +2,7 @@
 
 [The Fearless Engineer : `C++`](https://www.thefearlessengineer.com/cpp-kurs)
 
-<img src="img/angry_birds_terminal.png"/>
+<img src="img/angry_birds_terminal.jpg"/>
 
 ##
 ## Worum geht es?
