@@ -11,7 +11,7 @@ Dieses Projekt ist Teil eines Online-Kurses zur Programmiersprache C++. Eines de
 
 Wenn du nicht weiter kommst, dann findest du im Ordner `solution` eine verschlüsselte ZIP-Datei, in der die Musterlösung enthalten ist. Das Passwort zur Entschlüsselung findest du im Begleitheft. 
 
-*Hinweis*: Das zugehörige Begleitheft inkl. der Links zu den Videos findest du [hier](https://go.tfe.academy/2010163).
+*Hinweis*: Das zugehörige Begleitheft inkl. der Links zu den Videos findest du [hier](https://go.tfe.academy/2011157).
 
 
 
@@ -41,7 +41,7 @@ Dazu sind die folgenden Schritte erforderlich:
 
 0. Nur für Windows: Installation des "Windows Terminal" --> [go.tfe.academy/2008278](https://go.tfe.academy/2008278)
 
-1. Klonen des GitHub-Repos oder Download als ZIP (`master` branch)--> [go.tfe.academy/2010164](https://go.tfe.academy/2010164)
+1. Klonen des GitHub-Repos oder Download als ZIP (`master` branch)--> [go.tfe.academy/2011156](https://go.tfe.academy/2011156)
 
 2. Installation von Entwicklerwerkzeugen : Die Anleitungen für die erforderlichen Tools `Visual Studio Code` und `gcc` findest du unter [Tools für die lokale Installation](#Tools-für-die-lokale-Installation).
    
